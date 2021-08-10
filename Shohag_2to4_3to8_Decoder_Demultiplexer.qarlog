@@ -1,0 +1,28 @@
+Quartus Prime Archive log --	C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_2to4_3to8_Decoder_Demultiplexer.qarlog
+
+Archive:	C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_2to4_3to8_Decoder_Demultiplexer.qar
+Date:		Thu Jul 01 15:04:19 2021
+Quartus Prime		16.0.0 Build 211 04/27/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_1to2Decoder_block.bdf
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_1to2_Decoder_LPM.cmp
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_1to2_Decoder_LPM.qip
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_1to2_Decoder_LPM.vhd
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_1to8_Demultiplexer.vhd
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_2to4_3to8_Decoder_Demultiplexer.qpf
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_2to4_3to8_Decoder_Demultiplexer.qsf
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_2to4_Decoder_LPM.cmp
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_2to4_Decoder_LPM.qip
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_2to4_Decoder_LPM.vhd
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_2to4_Decoder_blockDiagram.bdf
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_2to4_Decoder_blockDiagram.vhd
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_3to8_Decoder_Behavioral.vhd
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_3to8_Decoder_LPM_VHDL.cmp
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_3to8_Decoder_LPM_VHDL.qip
+C:/altera_lite/Shohag_2to4_3to8_Decoder_Demultiplexer/Shohag_3to8_Decoder_LPM_VHDL.vhd
+c:/altera_lite/16.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 17 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
